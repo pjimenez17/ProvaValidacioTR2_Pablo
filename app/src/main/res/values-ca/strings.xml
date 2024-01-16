@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProvaValidacioTR2_Pablo</string>
+    <string name="sala">Sala</string>
+    <string name="activo">Actiu</string>
+    <string name="me_has_clicado">"M'has clicat "</string>
+</resources>
